@@ -1,4 +1,4 @@
-# Malc_Task1
+# Malc_Task1 Oct 20 2025
 Submission of Task 1 (Basic Calculator) by Malcolm Cephas
 
 This is a simple command-line Java-based calculator program that allows users to perform basic arithmetic operations, such as addition, subtraction, multiplication, and division. The calculator prompts the user for input and then displays the result of the selected operation.
